@@ -45,3 +45,13 @@
 [Saturn](https://saturnframework.org/) is a web development framework written in F# which implements the server-side MVC pattern. Many of its components and concepts will seem familiar to anyone with experience in other web frameworks like Ruby on Rails or Python’s Django.
 
 [Pulumi](https://www.pulumi.com/) is Infrastructure as Code SDK is the easiest way to create and deploy cloud software that use containers, serverless functions, hosted services, and infrastructure, on any cloud. Simply write code in your favorite language and Pulumi will automatically provisions and manages your AWS, Azure, Google Cloud Platform, and/or Kubernetes resources, using an infrastructure-as-code approach. 
+
+[FsPickler](https://github.com/mbraceproject/FsPickler) is a serialization library that facilitates the distribution of .NET objects. The implementation focuses on performance and completeness in supported types, including F# types. It supports multiple, pluggable serialization formats including Binary, Xml, JSON and BSON. The library is based on the functional programming concept of [pickler combinators](https://www.microsoft.com/en-us/research/publication/functional-pearl-pickler-combinators/) which has been adapted to accommodate the object oriented nature of the .NET framework.
+
+[Paket](https://fsprojects.github.io/Paket/) is a dependency manager for .NET with support for NuGet packages and git repositories.
+
+[Fantomas](https://fsprojects.github.io/fantomas-tools/#/fantomas/preview) is a F# source code formatter.
+
+[SQLProvider](http://fsprojects.github.io/SQLProvider) is a general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, and CRUD operations.
+
+[FsUnit](http://fsprojects.github.io/FsUnit/) makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
