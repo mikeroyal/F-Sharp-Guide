@@ -6,7 +6,14 @@
 
 #### A guide covering F# including the applications and tools that will make you a better and more efficient F# developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119560602-fa5b6f00-bd58-11eb-9d0a-fc14f867983c.png">
+  <br />
+</p>
+
+# F# Learning Resources
 
 [F#](https://fsharp.org/) is a mature, open source, cross-platform, functional-first programming language. It empowers users and organizations to tackle complex computing problems with simple, maintainable and robust code.
 
@@ -26,7 +33,7 @@
 
 [F# Programming groups | Meetup](https://www.meetup.com/topics/f-programming/)
 
-## Tools
+# F# Tools, Libraries, and Frameworks
 
 [Python.NET](http://pythonnet.github.io/) is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. It allows Python code to interact with the CLR, and may also be used to embed Python into a .NET application.
 
@@ -55,3 +62,12 @@
 [SQLProvider](http://fsprojects.github.io/SQLProvider) is a general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, and CRUD operations.
 
 [FsUnit](http://fsprojects.github.io/FsUnit/) makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/F-Sharp-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
